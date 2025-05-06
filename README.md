@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marwans111" alt="marwans111" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/m1rwvn" target="blank"><img src="https://img.shields.io/twitter/follow/m1rwvn?logo=twitter&style=for-the-badge" alt="m1rwvn" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/marwan-soliman-b457062b4/" /></a> </p>
 
 - 🔭 I’m currently working on **Customer Churn Prediction and Analysis**
 
